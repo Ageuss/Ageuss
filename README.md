@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Ageu Oliveira  
+## Heyy! Eu sou o Ageu Oliveira  
  <div>
   <a href="https://github.com/ageuss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ageuss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
